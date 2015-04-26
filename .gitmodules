@@ -227,3 +227,15 @@
 [submodule "janus/vim/langs/json"]
 	path = janus/vim/langs/json
 	url = https://github.com/elzr/vim-json.git
+[submodule "janus/vim/tools/vim-airline"]
+	path = janus/vim/tools/vim-airline
+	url = https://github.com/bling/vim-airline.git
+[submodule "janus/vim/tools/emmet-vim"]
+	path = janus/vim/tools/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "janus/vim/tools/vim-jsx"]
+	path = janus/vim/tools/vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
+[submodule "janus/vim/tools/vim-react-snippets"]
+	path = janus/vim/tools/vim-react-snippets
+	url = https://github.com/justinj/vim-react-snippets.git
