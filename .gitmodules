@@ -242,3 +242,6 @@
 [submodule "janus/vim/tools/ultisnips"]
 	path = janus/vim/tools/ultisnips
 	url = https://github.com/SirVer/ultisnips.git
+[submodule "janus/vim/tools/YouCompleteMe"]
+	path = janus/vim/tools/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
