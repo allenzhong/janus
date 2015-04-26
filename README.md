@@ -59,7 +59,7 @@ installer](https://github.com/carlhuda/janus/blob/master/bootstrap.sh)
 Janus.
 
 ```bash
-$ curl -Lo- https://bit.ly/janus-bootstrap | bash
+$ curl -Lo- https://raw.githubusercontent.com/allenzhong/janus/master/bootstrap.sh | bash
 ```
 
 ## Customization
