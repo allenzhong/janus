@@ -239,3 +239,6 @@
 [submodule "janus/vim/tools/vim-react-snippets"]
 	path = janus/vim/tools/vim-react-snippets
 	url = https://github.com/justinj/vim-react-snippets.git
+[submodule "janus/vim/tools/ultisnips"]
+	path = janus/vim/tools/ultisnips
+	url = https://github.com/SirVer/ultisnips.git
