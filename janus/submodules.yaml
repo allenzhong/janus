@@ -133,11 +133,3 @@ submodules:
     vroom:
     multiple-cursors:
     visualstar:
-    vim-airline:
-    emmet-vim:
-    vim-jsx:
-      dependencies:
-        - javascript
-    vim-react-snippets:
-      dependencies:
-        - vim-snipmate:
