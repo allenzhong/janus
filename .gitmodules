@@ -245,3 +245,9 @@
 [submodule "janus/vim/tools/YouCompleteMe"]
 	path = janus/vim/tools/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
+[submodule "janus/vim/tools/auto-pairs"]
+	path = janus/vim/tools/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "janus/vim/tools/vim-ruby-interpolation"]
+	path = janus/vim/tools/vim-ruby-interpolation
+	url = https://github.com/p0deje/vim-ruby-interpolation.git
